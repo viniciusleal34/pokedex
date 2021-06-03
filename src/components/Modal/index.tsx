@@ -77,7 +77,7 @@ export const SimpleModal: React.FC<ContainerProps> = ({
                 {pokemon.order}
               </p>
               <p>
-                <b>Base de experiencia:</b>
+                <b>Experiência base:</b>
                 {"  "}
                 {pokemon.baseExperience}
               </p>
